@@ -2,9 +2,9 @@
 
 # 🟣 Midscrow
 
-### Secure, non-custodial crypto escrow — built for real trades, not hype.
+### Secure, non-custodial crypto escrow built for real trades, not hype.
 
-**Midscrow** is a live, production-grade escrow platform designed for peer-to-peer crypto trades, digital goods, and high-risk online deals — without requiring trust in the counterparty or the platform itself.
+**Midscrow** is a live, production-grade escrow platform designed for peer-to-peer crypto trades, digital goods, and high-risk online deals without requiring trust in the counterparty or the platform itself.
 
 🔗 **Live platform:** https://midscrow.vercel.app
 
@@ -27,7 +27,7 @@ Just enforced logic and cryptographic guarantees.
 ## Core Principles
 
 - 🔐 **Non-custodial by design**  
-  Funds are never pooled or reused — every escrow is isolated.
+  Funds are never pooled or reused every escrow is isolated.
 
 - 🤝 **Dual confirmation flow**  
   Funds only move after both parties explicitly confirm.
@@ -50,7 +50,7 @@ Just enforced logic and cryptographic guarantees.
 3. Both parties confirm the agreed amount  
 4. Goods or services are delivered  
 5. Receiver confirms delivery  
-6. Funds are released — or locked for admin review if disputed  
+6. Funds are released; or locked for admin review if disputed  
 
 No trust assumptions.  
 No manual middlemen.  
@@ -67,7 +67,7 @@ No reputation gaming.
 - Gift card escrow  
 - Anonymous peer-to-peer exchanges  
 
-If the deal carries risk — Midscrow reduces it.
+If the deal carries risk; Midscrow reduces it.
 
 ---
 
@@ -96,15 +96,13 @@ There are:
 
 Once confirmations are made, states are **cryptographically enforced** and irreversible.
 
-Trust comes from architecture — not branding.
+Trust comes from architecture; not branding.
 
 ---
 
-## Links
+## Link
 
 - 🌐 Platform: https://midscrow.vercel.app
-- 📖 Documentation: https://midscrow.vercel.app/docs
-- 🧠 How it works: https://midscrow.vercel.app/how-it-works
 
 ---
 

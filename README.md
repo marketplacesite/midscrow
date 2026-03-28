@@ -67,7 +67,7 @@ No intervention unless absolutely required.
 
 ## ⚙️ How It Works
 
-```text
+
 1. Create Escrow → Define deal amount
 2. Deposit Funds → Locked in isolated wallet
 3. Both Confirm → Terms are finalized

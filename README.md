@@ -27,7 +27,7 @@ It removes the need for:
 
 Instead, it enforces trades through **strict logic, isolated wallets, and dual-confirmation flows**.
 
-> If both sides don’t confirm — nothing moves.
+> If both sides don’t confirm nothing moves.
 
 ---
 
@@ -49,7 +49,7 @@ No intervention unless absolutely required.
 ## 🔐 Core Principles
 
 - 🔒 **Non-Custodial by Design**  
-  Every escrow uses a dedicated wallet — funds are never pooled.
+  Every escrow uses a dedicated wallet funds are never pooled.
 
 - 🤝 **Dual Confirmation System**  
   Both parties must explicitly confirm before funds are released.
@@ -90,7 +90,7 @@ No hidden paths.
 - 🎁 Gift card escrow  
 - 🕶️ Anonymous peer-to-peer trades  
 
-If it involves risk — Midscrow reduces it.
+If it involves risk Midscrow reduces it.
 
 ---
 
@@ -119,7 +119,7 @@ There are:
 
 Once confirmed, escrow states are **irreversible and enforced**.
 
-> Trust the system — not the counterparty.
+> Trust the system not the counterparty.
 
 ---
 

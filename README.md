@@ -1,4 +1,4 @@
-# 🟣 Midscrow — Trustless Crypto Escrow
+# 🟣 Midscrow Trustless Crypto Escrow
 
 <p align="center">
   <b>Secure trades. Zero custody. No reputation games.</b><br/>

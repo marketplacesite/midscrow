@@ -1,3 +1,6 @@
+My personal note: Hello I am
+bannity a solo entrepreneur who facilitates in many services since 2016 I have done: Free accumt generators, roblox robux services, roblox limiteds services, currently manage Plus Exchange (have as of when writing this managed $1.2M$+, sold roblox groups generating robux from clothing from Vineyard (a clothing bot), and own coinkong (a crypto to crypto exchange) I also was the owner of the server Boostified which was earlier called bannity's vouches (or even earlier bannity's account shack) which has faciliated many thousnands of customers needs for roblox related services connecting suppliers to buyers in a safe way. This has all led up to Midscrow! i know what needs to be done to make a safe deal and spent 8 months of my life making, testing, improving and releasing Midscrow. It is now in full public use!
+
 # 🟣 Midscrow Trustless Crypto Escrow
 
 <p align="center">

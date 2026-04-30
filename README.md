@@ -179,6 +179,6 @@ All actions are final once confirmed.
 
 <p align="center">
   <b>Mirror link:</b><br/>
-  <a href="[https://midscrow.pages.dev](https://midscrow.pages.dev)"><strong>Use Midscrow →</strong></a>
-</p> 
+  <a href="https://midscrow.pages.dev"><strong>Use Midscrow →</strong></a>
+</p>
 

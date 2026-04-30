@@ -105,7 +105,7 @@ If it involves risk Midscrow reduces it.
 | Dual confirmation | ✅ | ❌ |
 | No KYC | ✅ | ❌ |
 | Isolated wallets | ✅ | ❌ |
-| Admin cannot seize funds | ✅ | ❌ |
+| both mutual control & protection | ✅ | ❌ |
 | Built for online trades | ✅ | ❌ |
 
 ---
@@ -115,10 +115,12 @@ If it involves risk Midscrow reduces it.
 Midscrow is **live, active, and enforced by design**.
 
 There are:
-- No pooled funds  
-- No hidden custody  
-- No reputation manipulation  
-- No silent admin overrides  
+-   Always mutual control & protection
+-   Always secured non pooled funds
+-   Always clear steps and warnings
+-   Always whats right not assumed
+
+  
 
 Once confirmed, escrow states are **irreversible and enforced**.
 

@@ -147,6 +147,8 @@ Covers:
 ## 🌐 Access Midscrow
 
 👉 **https://ishortn.ink/middleman**
+👉 Mirror link: https://midscrow.pages.dev
+(either link will work between eachother)
 
 ---
 
@@ -174,3 +176,9 @@ All actions are final once confirmed.
   <b>No trust required. No custody involved. Just enforced execution.</b><br/>
   <a href="https://ishortn.ink/middleman"><strong>Use Midscrow →</strong></a>
 </p>
+
+<p align="center">
+  <b>Mirror link:</b><br/>
+  <a href="[https://midscrow.pages.dev](https://midscrow.pages.dev)"><strong>Use Midscrow →</strong></a>
+</p> 
+
